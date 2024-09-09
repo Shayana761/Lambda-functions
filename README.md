@@ -1,2 +1,2 @@
 # Lambda-functions
-This is some simple code about Lambda functions in C#
+here we are using lambda functions to do mathematical equasions on an array.
